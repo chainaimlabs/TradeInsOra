@@ -36,6 +36,13 @@ The key behind the proposed solution is identifying, defining, and templating th
 In the Open Account Trade model, where other financiers are NOT involved, this could lead to a Seller-Buyer negotiated model, executed step-by-step, addressing discrepancies every step of the way for those meaningful, without having to deal with exposing more than needed information ( business sensitive ), or discrepancies after the fact which typically affects cash flow.
 
 
+# Team Profiles 
+
+The profiles of the founders, their technical background in blockchains and trade and insurance indusctry  is avaialble at
+
+https://github.com/chainaimlabs/TradeInsOra/tree/main/documents
+
+
 
 
 
