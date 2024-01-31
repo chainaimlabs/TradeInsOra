@@ -31,7 +31,7 @@ e. * a way for insurance to work, which is completely broken and helpless even a
 
 # Proposed Solution 
 
-The key behind the proposed solution is identifying, defining, and templating the counter-party risk for the selected checkpoints the counter-party cares about. All the rest of the flow can happen in all enterprise systems, but verifiable proof at critical interim milestones reduces the risk and lets the financier make decisions on payouts. The reconciliation is step-wise accounted for and can be proven on the MINA blockchain for the most meaningful interim milestones, where the rest can be on other blockchains, and enterprise systems.
+The key behind the proposed solution is identifying, defining, and templating the counter-party risk for the selected checkpoints the counter-party cares about. All the rest of the flow can happen in all enterprise systems, but verifiable proof at critical interim milestones reduces the risk and lets the financier make decisions on payouts. The reconciliation is step-wise accounted for and can be proven on the MINA blockchain with ZK SNARKS for the most meaningful DVP interim milestone constructs, where the rest can be on other blockchains, and enterprise systems.
 
 In the Open Account Trade model, where other financiers are NOT involved, this could lead to a Seller-Buyer negotiated model, executed step-by-step, addressing discrepancies every step of the way for those meaningful, without having to deal with exposing more than needed information ( business sensitive ), or discrepancies after the fact which typically affects cash flow.
 
