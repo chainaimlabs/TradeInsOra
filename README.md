@@ -1,4 +1,4 @@
-$TradeInsOra
+# TradeInsOra
 
 TradeInsOra is a zk platform for defining and assembling composable proofs layered for the export-import trade orchestration, providing MSMEs with reduced counter-party risk and wider business and financial access.
  
@@ -17,7 +17,7 @@ In our extensive research on blockchain adoption documented in the Blockchain Ad
 The blockchain adoption framework published calls.out the Friction maps, and highlights privacy centric blockchain capabilities as the pivotal next step to drive blockchain utility.
 
 
-Describe the problem that your zkApp is solving
+# Problem Statememt  Describe the problem that your zkApp is solving
 
 In our extensive research on blockchain adoption documented in the Blockchain Adoption Framework, we receive feedback that the technical, functional, and scalability are maturing. However, real-world applications are still hesitant because of regulatory and privacy reasons. 
 
@@ -28,6 +28,8 @@ b. * privacy-oriented exchange of information with counterparties (Importers, Fi
 c. * Days Outstanding creep enormously because of transactional trade discrepancies. Roughly half of the transactions are indicated to have some kind of discrepancies, that only show up way late.
 d. * need predictability, transparency, and shortened Days Outstanding cycles including access to non-traditional sources like defi
 e. * a way for insurance to work, which is completely broken and helpless even admitted by the Insurance providers - the primary reason being opaqueness.
+
+# Proposed Solution 
 
 The key behind the proposed solution is identifying, defining, and templating the counter-party risk for the selected checkpoints the counter-party cares about. All the rest of the flow can happen in all enterprise systems, but verifiable proof at critical interim milestones reduces the risk and lets the financier make decisions on payouts. The reconciliation is step-wise accounted for and can be proven on the MINA blockchain for the most meaningful interim milestones, where the rest can be on other blockchains, and enterprise systems.
 
