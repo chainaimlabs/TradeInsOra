@@ -1,6 +1,6 @@
 $TradeInsOra
 
-TradeInsOra is a zk platform for defining and assembling composable proofs layered for the export-import trade orchestration, providing MSMEs with reduced recounter-party risk and wider business and financial access.
+TradeInsOra is a zk platform for defining and assembling composable proofs layered for the export-import trade orchestration, providing MSMEs with reduced counter-party risk and wider business and financial access.
  
 Context:
 The team at ChainAim Labs has been working with many trade entities( UAE Ministry of trade, WTO, Department of Commerce India, General Authority of Foreign Trade, Saudi ), governments ( Saudi, India, US, UK) and MSMEs globally, and has been studying the maturity of blockchain adoption on the consumers/ MSME side as well as Enterprises. Many of these organizations have realized the need and are promoting inclusivity themes for MSMEs (Micro, Small and Medium Enterprises)
