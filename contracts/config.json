@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "deployAliases": {
+    "test_1": {
+      "networkId": "testnet",
+      "url": "https://proxy.berkeley.minaexplorer.com/graphql",
+      "keyPath": "keys/test_1.json",
+      "feepayerKeyPath": "C:\\Users\\Vaani Bakshi/.cache/zkapp-cli/keys/test1_fee.json",
+      "feepayerAlias": "test1_fee",
+      "fee": "0.1",
+      "smartContract": "Taxverifier"
+    },
+    "test_2": {
+      "networkId": "testnet",
+      "url": "https://proxy.berkeley.minaexplorer.com/graphql",
+      "keyPath": "keys/test_2.json",
+      "feepayerKeyPath": "C:\\Users\\Vaani Bakshi/.cache/zkapp-cli/keys/test_2_fee.json",
+      "feepayerAlias": "test_2_fee",
+      "fee": "0.1",
+      "smartContract": "Taxverifier"
+    },
+    "test_3": {
+      "networkId": "testnet",
+      "url": "https://proxy.berkeley.minaexplorer.com/graphql",
+      "keyPath": "keys/test_3.json",
+      "feepayerKeyPath": "C:\\Users\\Vaani Bakshi/.cache/zkapp-cli/keys/test_3_fee.json",
+      "feepayerAlias": "test_3_fee",
+      "fee": "0.1",
+      "smartContract": "Taxverifier"
+    },
+    "test_4": {
+      "networkId": "testnet",
+      "url": "https://proxy.berkeley.minaexplorer.com/graphql",
+      "keyPath": "keys/test_4.json",
+      "feepayerKeyPath": "C:\\Users\\Vaani Bakshi/.cache/zkapp-cli/keys/test_4_fee.json",
+      "feepayerAlias": "test_4_fee",
+      "fee": "0.1",
+      "smartContract": "TaxPayerVerifier"
+    }
+  }
+}
