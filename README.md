@@ -51,8 +51,38 @@ https://github.com/chainaimlabs/TradeInsOra/tree/main/documents
 
 
 
+# Solution Context :
 
 
+
+
+
+
+
+![Slide7](https://github.com/chainaimlabs/TradeInsOra/assets/145298019/7a3a140f-10c9-43c9-9176-41b5106efa9a)
+
+
+
+
+![Slide8](https://github.com/chainaimlabs/TradeInsOra/assets/145298019/dbf7b97b-8be7-4936-9d0f-0514c24491e3)
+
+
+
+# Solution Design:
+
+
+
+
+
+
+
+![SolnDes-1](https://github.com/chainaimlabs/TradeInsOra/assets/145298019/e69faa4f-ea91-4dcf-b962-b7f58885e412)
+
+
+
+
+
+![SolultionDes-2](https://github.com/chainaimlabs/TradeInsOra/assets/145298019/3f85422f-a798-4a46-82ba-ca1b4c43cbb1)
 
 
 
