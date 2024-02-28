@@ -7,3 +7,4 @@
 # Solution Design :
 
 ![WhatsApp Image 2024-02-28 at 1 08 23 PM](https://github.com/chainaimlabs/TradeInsOra/assets/140976537/d47a2f31-f142-4114-979c-cf4dfa0eb6d6)
+![WhatsApp Image 2024-02-28 at 1 08 58 PM](https://github.com/chainaimlabs/TradeInsOra/assets/140976537/620bba47-d26e-4bfc-a8b6-3c45ffea7cfd)
